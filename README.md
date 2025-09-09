@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7941E&center=true&vCenter=true&width=700&lines=Hi,+I'm+Abhay+(a.k.a.+@Abhaythakurrr)+%F0%9F%91%8B;Curious+Hacker+Building+Memory,+AI,+AR%2FVR,+and+Creative+Tools;Always+Learning%2C+Always+Creating!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7941E&center=true&vCenter=true&width=700&lines=Hi,+I'm+Abhay+(a.k.a.+@Abhi)+%F0%9F%91%8B;Curious+builder,+AI+experimenter,+and+practical+dreamer." />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ## 🤝 Let’s Get Weird Together
 
-> 🗨️ *I may take my time replying (some bugs are stubborn), but I’m always game for chats, collabs, or wild ideas about memory-first AI, immersive experiences, or hacker-style projects. Drop a note, star a repo, or share what you’re diving into—I’m listening!*
+> 🗨️ *I may take my time replying (some bugs are stubborn), but I’m always game for chats, collabs, or wild ideas about memory-first AI, immersive experiences, or hacker-style projects. Drop me a line!*
 
 <p align="center">
   <a href="mailto:abhaythakurr17@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
