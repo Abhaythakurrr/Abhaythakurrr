@@ -1,8 +1,22 @@
 <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="60" cy="60" r="55" stroke="#FF0040" stroke-width="6" fill="none"/>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="55" stroke="#FF0040" stroke-width="6" fill="none" filter="url(#glow)"/>
   <circle cx="60" cy="60" r="45" stroke="#8A0303" stroke-width="3" fill="none"/>
   <circle cx="60" cy="60" r="32" stroke="#FF5555" stroke-width="2" fill="none"/>
   <line x1="60" y1="10" x2="60" y2="110" stroke="#8A0303" stroke-width="3"/>
   <line x1="10" y1="60" x2="110" y2="60" stroke="#8A0303" stroke-width="3"/>
+  <!-- Arcane glyphs/runes -->
+  <text x="25" y="40" font-size="11" fill="#8A0303" font-family="monospace">ᚱ</text>
+  <text x="95" y="90" font-size="11" fill="#8A0303" font-family="monospace">ᛟ</text>
+  <text x="45" y="18" font-size="11" fill="#FF0040" font-family="monospace">⍟</text>
+  <text x="75" y="105" font-size="11" fill="#FF0040" font-family="monospace">†</text>
   <text x="60" y="66" font-size="22" fill="#FF0040" text-anchor="middle" font-family="serif">☉</text>
 </svg>
