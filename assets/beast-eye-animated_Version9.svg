@@ -1,0 +1,19 @@
+<svg width="90" height="60" viewBox="0 0 90 60" xmlns="http://www.w3.org/2000/svg">
+  <radialGradient id="glow" cx="45" cy="30" r="30">
+    <stop offset="0%" stop-color="#FF0040" stop-opacity="0.6" />
+    <stop offset="100%" stop-color="#1a0000" stop-opacity="0" />
+  </radialGradient>
+  <ellipse cx="45" cy="30" rx="20" ry="20">
+    <animate attributeName="rx" values="20;14;20" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="20;26;20" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#1a0000;#8A0303;#1a0000" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="45" cy="30" rx="30" ry="21" fill="url(#glow)" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.3;0.6" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="45" cy="30" rx="13" ry="13" fill="#FF0040">
+    <animate attributeName="r" values="13;17;13" dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- Slit pupil -->
+  <rect x="43" y="25" width="4" height="14" rx="2" fill="#fff" stroke="#8A0303" stroke-width="1"/>
+</svg>
