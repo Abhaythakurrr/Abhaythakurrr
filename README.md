@@ -1,85 +1,84 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7941E&center=true&vCenter=true&width=700&lines=Hi,+I'm+Abhay+(a.k.a.+@Abhi)+%F0%9F%91%8B;Curious+builder,+AI+explorer,+and+tech+storyteller!;Gamifying+my+dev+journey+with+challenges+and+trophies!%F0%9F%8F%86" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=800&duration=3000&color=00FFFF&background=0D0D2B&center=true&vCenter=true&width=1000&lines=Rank+E+%E2%86%92+S-Rank+Awakening...;Abhay+Thakur+//+Shadow+Monarch+of+Code;%E2%9A%A1+System+Online+%E2%80%A2+2025+Season+Active" alt="Awakening"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Abhaythakurrr?style=social" />
-  <img src="https://img.shields.io/github/stars/Abhaythakurrr?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhaythakurrr" />
+  <img src="https://img.shields.io/badge/Current_Rank-S--Rank-00FFFF?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Necromancer_Class-Shadow_AI_Monarch-1E1E3F?style=for-the-badge&logo=ghost" />
+  <img src="https://img.shields.io/badge/Dungeon_Clears-500%2B_Consecutive_Days-F7941E?style=for-the-badge&logo=git" />
 </p>
 
----
-
-## 🚀 Latest Projects & Playgrounds
-
-| Project | Description | Tech Stack |
-| :---: | :--- | :---: |
-| 🤖 **[prabhtelebot](https://github.com/Abhaythakurrr/prabhtelebot)** | Telegram bot project with a focus on automation & interaction, driven by Python. | Python |
-| 📈 **[prabhstock](https://github.com/Abhaythakurrr/prabhstock)** | Stock tracking and analysis automation for smarter trade decisions. | Python |
-| 🕸️ **[myprabh](https://github.com/Abhaythakurrr/myprabh)** | My own dynamic web playground, now live at [myprabh.vercel.app](https://myprabh.vercel.app). | HTML |
-| 👤 **[Me](https://github.com/Abhaythakurrr/Me)** | My latest personal portfolio site, check it out at [abhaythakurrr.github.io/Me](https://abhaythakurrr.github.io/Me/). | HTML |
-| 👓 **[think_of_it](https://github.com/Abhaythakurrr/think_of_it)** | A space for experiments, notes, and curious code ideas. | Python |
-| 🎩 **[PrabhAi](https://github.com/Abhaythakurrr/PrabhAi)** | Intelligence API & framework for AR/VR with learning, memory, and reasoning. | TypeScript |
-| 🧠 **[psychopath](https://github.com/Abhaythakurrr/psychopath)** | TypeScript playground for wild scaffolding and learning. | TypeScript |
-| 🌏 **[akshuai](https://github.com/Abhaythakurrr/akshuai)** | AR/VR overlays for travelers with contextual history. | Python |
-| 🔗 **[tws-api-web](https://github.com/Abhaythakurrr/tws-api-web)** | Easy web service for Trader Workstation. | Python |
-
----
-
-## ✨ What's New?
-
-- **Telegram Automation:** Built `prabhtelebot` to experiment with conversational bots and workflow automation.
-- **Stock Analytics:** Launched `prabhstock` for automated stock insights.
-- **Portfolio Refresh:** Created [Me](https://abhaythakurrr.github.io/Me/) as my new personal site.
-- **Web Playground:** Rolled out `myprabh` for real-world web ideas ([demo](https://myprabh.vercel.app)).
-- **Experimentation:** Updated `think_of_it` for testing fresh code and hacks.
-
----
-
-## 🏆 Gamification & Dev Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhaythakurrr&theme=onestar&row=1&column=7" alt="GitHub Trophy"/>
-</p>
-
-### 🌟 Profile Progress
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaythakurrr&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-### 🚩 Challenge Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/100%2B%20Commits%20Streak-success?style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/badge/Portfolio%20Launched-blueviolet?style=for-the-badge&color=be52da" />
-  <img src="https://img.shields.io/badge/Python%20Bot%20Deployed-important?style=for-the-badge&color=ff6f00" />
-  <img src="https://img.shields.io/badge/AR%2FVR%20Project%20Shipped-informational?style=for-the-badge&color=17a2b8" />
+  <img src="https://komarev.com/ghpvc/?username=Abhaythakurrr&color=00FFFF&style=for-the-badge&label=Gate+Entries" />
 </p>
 
 ---
+## ⚔️ Hunter Profile: Abhay // @Abhi
+> *"The weakest hunter became the strongest shadow."*  
+> From E-rank beginner → S-rank Shadow Monarch of full-stack & AI dungeons.
 
-## 📈 GitHub Stats
+### 🗡️ Core Skills (2025 Stat Panel)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhaythakurrr&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaythakurrr&layout=compact&theme=tokyonight" height="170" />
-</p>
+```text
+┌────────────────────────────────────────────────────┐
+│  STR  ██████████████ 95   (Python / Automation)    │
+│  INT  ████████████████ 99   (AI Agents & Reasoning)│
+│  AGI  ████████████ 90       (TypeScript / Next.js) │
+│  VIT  ███████████████ 97    (500+ Day Streak)      │
+│  LUK  ██████████ 85         (Ships without bugs)   │
+└────────────────────────────────────────────────────┘
 
----
+  https://github-readme-stats.vercel.app/api?username=Abhaythakurrr&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D2B&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaythakurrr&layout=donut&theme=radical&hide_border=true&bg_color=0D0D2B&title_color=00FFFF&text_color=00FFFF
 
-## 💬 Let's Connect & Collaborate
 
-> 🗨️ *Love building memory-driven AI, automation bots, and trying wild AR/VR ideas! DM me to chat, collab, or brainstorm.*
+🌀 Active Gates (Current Dungeons)
 
-<p align="center">
-  <a href="mailto:abhaythakurr17@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhaythakurr17/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/ritsai01"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://huggingface.co/Abhaythakurrr"><img src="https://img.shields.io/badge/huggingface-FFCA00?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-</p>
 
----
 
-<p align="center"><i>“Code is a playground, not a cathedral.”</i></p>
+
+Gate NameRankReward (Live)Core Skill Used🟣 PrabhAISprabhai.vercel.app (coming soon)Agentic AI + Memory + Reasoning🔴 prabhstockA+Real-time sentiment enginePython + WebSockets + ML🟢 myprabhAmyprabh.vercel.appNext.js + Three.js + Edge🟡 Me – Portfolio v5Aabhaythakurrr.github.io/Me3D GSAP + Interactive⚫ akshuai (AR Dungeon)SHistorical AR overlays + AI narrationUnity + Python + OpenAI
+
+🏆 Shadow Extract Achievements
+
+  Trophies
+
+
+  Streak Stats
+
+🔥 Monarch Badges (2025)
+
+  https://img.shields.io/badge/Shadow_Monarch_Awakened-00FFFF?style=for-the-badge&logo=ghost
+  https://img.shields.io/badge/500%2B_Day_Necromancer_Streak-F7941E?style=for-the-badge&logo=git
+  https://img.shields.io/badge/System_Administrator_Mode-ON-1E1E3F?style=for-the-badge&logo=windows
+  https://img.shields.io/badge/I_Am_The_Code_Itself-9400D3?style=for-the-badge&logo=react
+
+
+🖤 Shadow Army (Tech Stack Legion)
+
+  https://skillicons.dev/icons?i=python,typescript,nextjs,react,tailwind,threejs,fastapi,langchain,unity,vercel,supabase,postgres,docker,openai&theme=dark&perline=8
+
+
+📜 System Message
+"You have been granted the privilege to walk alongside the Monarch.
+Send a whisper if you dare enter a gate together."
+
+  
+    https://img.shields.io/badge/Whisper_to_the_Monarch-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  
+  
+    https://img.shields.io/badge/LinkedIn_Gate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+  
+  
+    https://img.shields.io/badge/HuggingFace_Scroll-FFCA00?style=for-the-badge&logo=huggingface&logoColor=black
+  
+  
+    https://img.shields.io/badge/Kaggle_Dungeon-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
+  
+
+
+  https://img.shields.io/badge/Status-In_the_deepest_dungeon-00FFFF?style=flat-square
+  https://img.shields.io/badge/Party_Recruitment-OPEN-00FF00?style=flat-square
+
+
+  “Arise.”
