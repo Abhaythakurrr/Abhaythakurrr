@@ -1,15 +1,15 @@
-<!-- █████████████████████████████████████████ -->
+<!-- ████████████████████████████████████ -->
 <!-- █ SOLO LEVELING: GATE OF DEMON MONARCH █ -->
-<!-- █████████████████████████████████████████ -->
+<!-- ████████████████████████████████████ -->
 
-<!-- MONSTER GATE BANNER (replace with your GIF/SVG) -->
+<!-- DEMON GATE BANNER: Horned Blood Gate -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/gate-monster-horns.svg" width="880" alt="GATE OF HORNS" />
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/horned-gate-divider_Version2.svg" width="880" alt="Horned Demon Gate" />
 </p>
 
-<!-- BLOOD HORN DIVIDER -->
+<!-- BLOOD FANG DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/horn-divider-blood.svg" width="700" />
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/fangs-divider_Version2.svg" width="700" />
 </p>
 
 <!-- DEMON/BOSS BADGES (dark red/black tones) -->
@@ -20,9 +20,9 @@
   <img src="https://komarev.com/ghpvc/?username=Abhaythakurrr&color=FF0040&style=for-the-badge&label=Souls+Harvested" />
 </p>
 
-<!-- FANGS DIVIDER -->
+<!-- MONSTER SKULL DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/fangs-divider.svg" width="680" />
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull_Version2.svg" width="90" />
 </p>
 
 <h1 align="center">
@@ -31,9 +31,10 @@
 
 ---
 
-<!-- BLOODY DEMON STATS PANEL -->
+<!-- BLOODY DEMON STATS PANEL: Magic Circle + Beast Eye -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/demon-stats-blood-panel.svg" width="520" alt="Blood Demon Stats" />
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle_Version2.svg" width="120" alt="Magic Circle Ritual" />
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye_Version2.svg" width="100" alt="Beast-Eye" />
 </p>
 
 ```diff
@@ -46,14 +47,14 @@
 ╚══════════════════════════════╝
 ```
 
+<!-- GATE/CLAWS DIVIDER -->
+<p align="center">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark_Version2.svg" width="130" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhaythakurrr&show_icons=true&theme=dark&hide_border=true&bg_color=200000&title_color=FF0040&text_color=FF3333&icon_color=FF0040&border_radius=17" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaythakurrr&layout=donut-vertical&theme=dark&hide_border=true&bg_color=220000&title_color=FF0040&text_color=FF5555&border_radius=17" width="420"/>
-</p>
-
-<!-- GATE/CLAWS DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/gate-claw-divider.svg" width="660" />
 </p>
 
 ---
@@ -66,8 +67,9 @@
 | 🐉 Fang's Domain     | S+   | Redscale Demon 🐲        | Draconic Liberation           |
 | 👁️ Shadow Hell      | X    | Monarch Archfiend 💀     | Shadow Ascension              |
 
+<!-- DARK FANG DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/horn-divider-blood.svg" width="540"/>
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/fangs-divider_Version2.svg" width="540"/>
 </p>
 
 ---
@@ -99,10 +101,12 @@
 ## 🦅 Final Words from the Blood Monarch
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhaythakurrr/assets/main/monster-throne-fangs.gif" width="110"/>
+  <!-- If you have animated beast/demon GIFs, add here! -->
+  <!-- Example: <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-throne-fangs.gif" width="110"/> -->
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull_Version2.svg" width="90"/>
   <br>
   <span style="font-size:1.3em; color:#FF0040;">
-    The Gate opens, horns rise, and the beast roars.<br>
+    The Gates open, horns rise, and the beasts roar.<br>
     <b>ARISE!</b> Will you join the Shadow Army... or be devoured by it?
   </span>
 </p>
