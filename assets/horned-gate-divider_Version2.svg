@@ -1,10 +1,19 @@
 <svg width="800" height="70" viewBox="0 0 800 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="aura" cx="400" cy="35" r="350" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#FF0040" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#1a0000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="400" cy="35" rx="370" ry="32" fill="url(#aura)" />
   <!-- Main blood arch -->
   <path d="M35 65 Q80 10 150 30 Q200 70 260 22 Q300 7 335 55 Q400 70 470 20 Q550 25 590 62 Q700 10 765 55" stroke="#FF0040" stroke-width="8" fill="none"/>
   <!-- Left demon horn -->
   <path d="M35 65 Q10 30 60 5 Q30 30 35 65" fill="#300000" stroke="#8A0303" stroke-width="6"/>
+  <path d="M29 33 Q23 26 38 21 Q34 33 29 33" stroke="#FF0040" stroke-width="1" fill="none"/><!-- crack -->
   <!-- Right demon horn -->
   <path d="M765 55 Q790 10 745 5 Q770 32 765 55" fill="#300000" stroke="#8A0303" stroke-width="6"/>
+  <path d="M780 27 Q775 22 764 24 Q770 34 780 27" stroke="#FF0040" stroke-width="1" fill="none"/><!-- crack -->
   <!-- Blood spikes -->
   <path d="M150 30 Q160 15 170 30" stroke="#8A0303" stroke-width="7"/>
   <path d="M400 70 Q410 50 430 70" stroke="#8A0303" stroke-width="9"/>
