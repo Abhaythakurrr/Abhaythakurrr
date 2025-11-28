@@ -3,14 +3,14 @@
 <!-- █████████████████████████████████████████ -->
 
 <p align="center">
-  <!-- Horned gate portal - opening the README -->
+  <!-- Horned gate opener (static for guaranteed display) -->
   <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/horned-gate-divider_Version2.svg" width="920">
-  <!-- Magic Circle (animated) - living summoning crest -->
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated.svg" width="90">
-  <!-- Beast Eye (animated) - pulsing danger -->
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated.svg" width="70">
-  <!-- Claw mark (animated) - "alive" threat -->
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated.svg" width="65">
+  <!-- Magic circle (animated) as glowing portal -->
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated_Version9.svg" width="90">
+  <!-- Beast eye (animated) for pulsing energy -->
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated_Version9.svg" width="70">
+  <!-- Claw mark (animated) as "alive" threat -->
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated_Version9.svg" width="65">
 </p>
 
 <h1 align="center">
@@ -18,8 +18,8 @@
 </h1>
 
 <p align="center">
-  <!-- Monster Skull (animated) - guardian of the shadow -->
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated.svg" width="98">
+  <!-- Monster Skull (animated) as "living guardian spirit" -->
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated_Version9.svg" width="98">
 </p>
 
 <p align="center">
@@ -30,17 +30,17 @@
   <img src="https://komarev.com/ghpvc/?username=Abhaythakurrr&color=FF0040&style=for-the-badge&label=Souls+Harvested+2025">
 </p>
 <p align="center">
-  <!-- Fangs divider with motion (static or animated) -->
+  <!-- Fangs divider (static, for horizontal impact) -->
   <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/fangs-divider_Version2.svg" width="700">
 </p>
 
 ---
 
-## 🩸 **MONARCH'S BUFFS & BLOOD STATS (2025 LIVE)**
+## 🩸 **MONARCH'S BLOOD STATS (2025 LIVE)**
 
 <p align="center">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated.svg" width="72">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated.svg" width="60">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated_Version9.svg" width="72">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated_Version9.svg" width="60">
 </p>
 
 <div align="center">
@@ -57,8 +57,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated.svg" width="70">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated.svg" width="60">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated_Version9.svg" width="70">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated_Version9.svg" width="60">
 </p>
 
 <p align="center">
@@ -78,8 +78,8 @@
 
 <p align="center">
   <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/fangs-divider_Version2.svg" width="520">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated.svg" width="40">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated.svg" width="50">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated_Version9.svg" width="40">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated_Version9.svg" width="50">
 </p>
 
 ---
@@ -90,8 +90,8 @@
     <img src="https://skillicons.dev/icons?i=python,typescript,threejs,fastapi,langchain,unity,postgres,redis,git,github,figma,docker,react,vercel,supabase,openai&theme=dark&perline=10" />
 </p>
 <p align="center">
-    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated.svg" width="58">
-    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated.svg" width="56">
+    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/magic-circle-animated_Version9.svg" width="58">
+    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated_Version9.svg" width="56">
 </p>
 
 ---
@@ -109,19 +109,18 @@
   <img src="https://img.shields.io/badge/Recruiting_Shadow_Army-OPEN_BLOOD-00FF00?style=for-the-badge&labelColor=220000"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated.svg" width="64">
-  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated.svg" width="58">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated_Version9.svg" width="64">
+  <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated_Version9.svg" width="58">
 </p>
-
 
 ---
 
 ## 🩸 **FINAL LIVING MESSAGE — 2025**
 
 <p align="center">
-    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated.svg" width="85">
-    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated.svg" width="68">
-    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated.svg" width="73">
+    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/monster-skull-animated_Version9.svg" width="85">
+    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/beast-eye-animated_Version9.svg" width="68">
+    <img src="https://github.com/Abhaythakurrr/Abhaythakurrr/raw/main/assets/claw-mark-animated_Version9.svg" width="73">
 </p>
 <div align="center" style="font-size:1.27em;color:#FF0040;font-weight:bold;">
     The Gates open, masks glow, blood powers surge.<br>
